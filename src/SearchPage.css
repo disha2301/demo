@@ -1,0 +1,18 @@
+.serachPage__info{
+    padding: 20px;
+}
+.serachPage__info > p{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.serachPage__info > h1{
+    margin-bottom: 30px;
+}
+.serachPage__info > button{
+    border-radius: 30px;
+    color: black;
+    text-transform: inherit;
+    padding: 10px;
+    border-color: black;
+
+}
